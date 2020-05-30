@@ -1,0 +1,6 @@
+{
+	"object":["comando"],
+	"methods":{
+		"exec":["executar"]
+	}
+}

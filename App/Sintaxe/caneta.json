@@ -1,0 +1,6 @@
+{
+	"object":["caneta"],
+	"methods":{
+		"escrever":["escrever", "com", "a"]
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"object":["mac","dispositivo","pessoa", "casa"],
+	"methods":{
+		"get_instagram":["encontrar", "quem", "esta", "em"]
+	}
+}

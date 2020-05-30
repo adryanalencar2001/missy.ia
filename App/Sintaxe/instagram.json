@@ -1,0 +1,18 @@
+{
+	"object":["instagram"],
+	"methods":{
+		"fun":[
+			"ver", 
+			"meu", 
+			"perfil"
+		],
+		"fun2":[
+			"deletar",
+			"photo"
+		],
+		"buscar_usuario":[
+			"buscar",
+			"usuario"
+		]
+	}
+}

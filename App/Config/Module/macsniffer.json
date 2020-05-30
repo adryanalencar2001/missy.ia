@@ -1,0 +1,15 @@
+{
+	"rssi":80,
+	"port":"/dev/ttyUSB0",
+	"boundrate": 115200,
+	"timeout": 5,
+	"maclist":{
+		"A8:96:75:6F:83:7F":"alyssonlopes.brave",
+		"10:D3:8A:18:8C:C6":"alencaradryan",
+		"70:FD:46:69:95:0E":"lume.brave",
+		"76:66:8B:9A:AF:E1":"adricafelix",
+		"9C:5C:F9:BC:E2:EB":"freire_806",
+		"1C:CC:D6:1D:E5:04":"davifj45",
+		"BC:98:DF:89:31:39":"luluzinho_wheeling"
+	}
+}

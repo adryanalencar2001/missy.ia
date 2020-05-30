@@ -1,0 +1,7 @@
+{
+	"language":"pt-br",
+	"translate":true,
+	"language_out":"en",
+
+	"app_modules_path" : "App/Modules/"
+}
